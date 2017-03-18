@@ -1,5 +1,5 @@
 # ReLinux-noproprietary
-###Overview of the Legal information
+### Overview of the Legal information
 
 ReLinux Linux distro full FOSS edition, includes only open source MIT, GPL or Public Domain software and Creative Commons or Public Domain media, with the exception of the ReLinux branding and themes. 
 
@@ -7,14 +7,16 @@ Where applicable, ReLinux is branding belongs to Collin Warren and other contrib
 
 We are not in anyway associated with [relinux](https://sourceforge.net/projects/re-linux/) so if you were looking for that instead, there you go. Only the specific stylizations re:linux, Re:Linux and ReLinux are our trademark, and currently it's an unregistered trademark.( If you snipe us at the patent and trademarks office or already own that trademark - please just send us a nice little email at <relinux@somethinghub.com> , and we'll work something out. ) In our usage it's short for "Reusable Linux", based on the intended goal of the project being to hopefully breathe life into new hardware. Now, with all of the important legal blargh out of the way, onto actually describing the project:
 
-#Re:Linux: Linux Old and New
+# Re:Linux: Linux Old and New
 
 ReLinux is a project to bring a unique and versatile Linux OS to any PC. ReLinux's main goal is to bring a reasonably robust and modern desktop experience to old hardware that cannot keep up with new software standards, as well as to provide a useful livedisk toolkit and environment for temporary usage and disaster recovery. While this is the primary goal, this should by no means sacrifice design, aesthetic appeal or accessibility. Nor should it mean that ReLinux is incapable of being used by power users on bleeding edge hardware. Whether ReLinux serves as your first taste of Linux, a way to stave off hardware upgrade costs in your small business, your Swiss army knife when fixing a downed OS, a curiosity for the seasoned Linux user, or just a reason to keep your PC that's almost as old as you around for another year of sentimental usage, we aim to provide an experience that is intuitive and appealing for novice and pro alike.
 
-###SomethingHub Store
+TODO: Put screen caps here
+
+### SomethingHub Store
 
 For users of the non-FOSS edition of ReLinux, we also offer popular commercial software via the SomethingHub Store, including proprietary software made by Collin Warren owner and proprietor of SomethingHub. Some of this software requires purchase, but ReLinux will never provide or present subscription-based software or software whose publisher is known to have terms that require always online DRM or allow them to revoke usage of software at will. For information about selling your software ( properitary or non-proprietary ) commercially on the SomethingHub store, please email <anatoly@somethinghub.com> The SomethingHub Store is not available in the FOSS version of ReLinux found on GitHub and must be downloaded and installed manually by the end-user. 
 
-###Important Notices about your Rights and Privacy:
+### Important Notices about your Rights and Privacy:
 
 The terms and conditions of the SomethingHub store are included with that software and payment information will *never* be saved locally by any SomethingHub software. The ReLinux group is committed to maintaining the privacy and freedom of choice of the user, even if they choose to use proprietary software. Please note that usage of the SomethingHub Store or packages and repos containing proprietary software will implicitly mean that your ReLinux install is no longer true FOSS. If you're fine with this, the consider just installing the regular non-FOSS edition of ReLinux which includes a selection of properly licensed proprietary software bundled with it and includes repositories containing potentially non-FOSS software. If you don't know what FOSS is, then this is probably you since you just want something to use, but if you are dedicated to FOSS or very particular about your rights and privacy, then this is the edition for you. Remember to stay smart and know your rights as a consumer of any software, whether you paid money for it or not. ReLinux and the ReLinux Group will *never* charge you money to download, install, use, or get support for ReLinux and will never track your private information. If someone tries to charge you to download or use ReLinux, please report them immediately. All donations to the ReLinux group are just that: completely optional donations to support development. ReLinux is not for profit, we have jobs and creative projects for that.
